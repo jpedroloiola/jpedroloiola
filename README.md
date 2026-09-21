@@ -16,9 +16,9 @@ Tecnologias
 - HTML
 - CSS
 - JavaScript
+- Python
 - SQL
 - Git e GitHub
-- Python
 
 Atualmente estudando
 
@@ -27,10 +27,10 @@ Atualmente estudando
 - Desenvolvimento de Aplicações para Internet
 - Front-end
 
-## 🚀 Projetos
+Projetos
 
 Estou construindo meus primeiros projetos e adicionando-os ao meu GitHub conforme avanço nos estudos.
 
-## 📫 Contato
+Contato
 
 - GitHub: [@jpedroloiola](https://github.com/jpedroloiola)
