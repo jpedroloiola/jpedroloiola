@@ -1,16 +1,36 @@
-## Hi there 👋
+Olá!
 
-<!--
-**jpedroloiola/jpedroloiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Pedro, estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+Atualmente estou construindo minha experiência na área de tecnologia, estudando desenvolvimento de sistemas, programação e banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim
+
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Atualmente estudando desenvolvimento web e banco de dados
+- Interessado em desenvolvimento de sistemas e tecnologia
+- Buscando transformar meus estudos em projetos práticos
+
+Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git e GitHub
+- Python
+
+Atualmente estudando
+
+- Análise e Modelagem de Sistemas
+- Banco de Dados
+- Desenvolvimento de Aplicações para Internet
+- Front-end
+
+## 🚀 Projetos
+
+Estou construindo meus primeiros projetos e adicionando-os ao meu GitHub conforme avanço nos estudos.
+
+## 📫 Contato
+
+- GitHub: [@jpedroloiola](https://github.com/jpedroloiola)
